@@ -1,14 +1,12 @@
-# TourOfHeroes
+# Tour Of Heroes
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6.
+Angular version 8.3.29.
+
+In this tutorial, build your own app from the ground up, providing experience with the typical development process, as well as an introduction to basic app-design concepts, tools, and terminology.
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
 ## Build
 
