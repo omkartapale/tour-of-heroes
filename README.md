@@ -1,6 +1,6 @@
 # Tour Of Heroes
 
-Angular version 10.2.4.
+Angular version 11.2.19.
 
 In this tutorial, build your own app from the ground up, providing experience with the typical development process, as well as an introduction to basic app-design concepts, tools, and terminology.
 
