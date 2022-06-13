@@ -1,6 +1,6 @@
 # Tour Of Heroes
 
-Angular version 12.2.17.
+Angular version 13.3.7.
 
 In this tutorial, build your own app from the ground up, providing experience with the typical development process, as well as an introduction to basic app-design concepts, tools, and terminology.
 
