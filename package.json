@@ -22,7 +22,7 @@
     "@angular/router": "^14.0.2",
     "angular-cli-ghpages": "^0.6.2",
     "angular-in-memory-web-api": "^0.14.0",
-    "core-js": "^2.6.9",
+    "core-js": "^3.23.2",
     "rxjs": "~6.6.3",
     "tslib": "^2.0.0",
     "zone.js": "~0.11.4"
